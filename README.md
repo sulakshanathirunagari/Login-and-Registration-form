@@ -1,5 +1,5 @@
 # Login-and-Registration-form
-This a login and registration form where the user can login into a website by giving his username and password.
-Incase if doesnot have an account he can use the register option where he can register his account.
-https://www.pixelstalk.net/wp-content/uploads/2016/04/Simple-backgrounds-for-desktop-download-620x388.jpg
+This a login and registration form where the user can login into a website by giving his/her username and password.
+Incase if he/she doesnot have an account register option can be used where he/she can register his/her account.
+
 
